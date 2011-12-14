@@ -1,0 +1,9 @@
+.DS_Store
+.sass-cache
+*.sublime-*
+docs/build
+wp-includes
+wp-admin
+wp-*.php
+*.swo
+*.swp
